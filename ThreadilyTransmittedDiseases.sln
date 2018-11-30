@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadilyTransmittedDiseases", "ThreadilyTransmittedDiseases\ThreadilyTransmittedDiseases.csproj", "{547F62A4-0910-4423-A9AE-F88F97FC36FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547F62A4-0910-4423-A9AE-F88F97FC36FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547F62A4-0910-4423-A9AE-F88F97FC36FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547F62A4-0910-4423-A9AE-F88F97FC36FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547F62A4-0910-4423-A9AE-F88F97FC36FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6F1561-1431-4C0C-992A-2CBAC3B7348C}
+	EndGlobalSection
+EndGlobal
